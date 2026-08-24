@@ -1,0 +1,25 @@
+{
+  "name": "Ted Croft Painting LLC - Professional Painters Omaha, NE",
+  "short_name": "Ted Croft Painting",
+  "description": "Expert painting services in Omaha, Nebraska & surrounding areas. 25+ years of professional interior, exterior & cabinet painting. Licensed, insured & trusted.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d7377",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["business", "home", "lifestyle"],
+  "lang": "en",
+  "scope": "/",
+  "orientation": "portrait-primary"
+}
