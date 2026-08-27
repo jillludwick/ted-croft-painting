@@ -1,0 +1,166 @@
+You are a senior conversion-focused web designer + React developer.
+
+I need you to REBUILD https://www.highvibeskinacademy.com/ as a bright, fun, premium, mobile-first course website that converts visitors into paid course enrollments.
+
+PRIMARY GOAL
+Drive course sales. Every design decision should support clarity → trust → action.
+
+TECH REQUIREMENTS
+- Use React + Tailwind.
+- Build a single-page marketing site + a separate /courses page.
+- Fast performance, clean semantic HTML, accessibility, strong contrast.
+- Include SEO basics (title, meta description, OpenGraph).
+- Build reusable components (Button, Section, Card, Testimonial, FAQ, CourseCard).
+- All CTAs must link to the existing checkout/course platform:
+  - Primary CTA link: https://www.highvibeskinacademy.com/courses
+  - Secondary CTA link: https://www.highvibeskinacademy.com/courses
+- Add a sticky top nav + a sticky mobile bottom bar with “Enroll Now”.
+
+VISUAL DIRECTION (LOOK + FEEL)
+- Vibe: clean, bright, fun, modern, premium (not childish, not cluttered).
+- Background: mostly white with soft gradient accents.
+- Color palette: coral + teal + sunshine yellow + lavender accents (use as highlights only).
+- Components: rounded-2xl corners, soft shadow cards, lots of whitespace, big friendly headings.
+- Typography: Inter or Poppins. Clear hierarchy: big headline, scannable sections.
+- Use simple line icons and subtle micro-animations (hover states only).
+
+COPY DIRECTION (HOW IT SHOULD READ)
+- Use clear, results-based language first (confidence, bookings, retention, client results).
+- Keep “high vibe / holistic / energetic” language as supportive flavor, not the main message.
+- Avoid long paragraphs. Use short lines, bullets, and bold key phrases.
+- Tone: warm, confident, professional, modern, uplifting.
+
+INFORMATION ARCHITECTURE
+Build these pages:
+
+========================
+PAGE 1: HOME (/)
+========================
+
+SECTION 1: HERO (ABOVE THE FOLD)
+Layout: left text + right image mock (placeholder)
+Headline (use exactly):
+“Holistic Esthetics Training That Improves Client Results — and Your Bookings.”
+Subheadline:
+“High Vibe Skin Academy helps licensed estheticians add in-demand holistic techniques with step-by-step training, ready-to-use protocols, and confidence you can feel.”
+Buttons:
+- Primary: “Browse Courses” (link to /courses)
+- Secondary: “Free Mini Guide” (opens email capture modal)
+Under buttons: 3 benefit bullets with icons:
+- “Add premium services clients pay extra for”
+- “Improve retention with a calmer, more connected experience”
+- “Get protocols + scripts you can use immediately”
+Trust row under bullets:
+“Trusted by estheticians” + 5-star placeholder + “Instant access on enrollment”
+
+SECTION 2: FEATURED COURSES (3 cards)
+Show 3 CourseCard placeholders (I will update later):
+Each card must include: course name, “Best for”, 4 bullet outcomes, price placeholder, and CTA “Enroll”.
+Add a “View all courses” link.
+
+SECTION 3: HOW IT WORKS (3 steps)
+Step 1: Choose a course
+Step 2: Learn with bite-sized lessons + downloads
+Step 3: Apply on clients + elevate your menu
+Add a small “What’s included” strip:
+“Video lessons • Downloadable protocols • Client scripts • Certificate (if applicable) • Lifetime access (if true placeholder)”
+
+SECTION 4: OUTCOMES / RESULTS
+A bright stats bar with 4 tiles:
+- “Step-by-step protocols”
+- “Plug-and-play scripts”
+- “Holistic add-ons clients love”
+- “Designed for real treatment rooms”
+Add a short credibility paragraph that this is built from real experience.
+
+SECTION 5: SOCIAL PROOF
+Grid of 6 testimonial cards (placeholder names + results-focused quotes).
+Add a bold mini headline:
+“Real estheticians. Real upgrades to their services.”
+Include a “Results” strip with 3 short before/after style statements (text only placeholders).
+
+SECTION 6: ABOUT THE FOUNDER
+Two-column: photo placeholder + story
+Headline:
+“Meet Your Mentor”
+Copy structure:
+- 2–3 sentence founder story (warm + credible)
+- 4 bullet credibility points (years experience, specialties, mission, community)
+CTA: “Find the best course for you” (scroll to featured courses)
+
+SECTION 7: FAQ (10 questions)
+Add accordion FAQ. Include these questions exactly:
+1) Who are these courses for?
+2) Do I need experience to start?
+3) How do I access my course?
+4) How long do I have access?
+5) Are the courses self-paced?
+6) Do I get a certificate?
+7) What if I don’t have time right now?
+8) Can I use this to raise my prices?
+9) Do you offer support or community?
+10) What is the refund policy?
+
+SECTION 8: FINAL CTA
+Big friendly block with gradient accent.
+Headline:
+“Ready to elevate your services?”
+Subtext:
+“Browse courses, pick your next skill, and start using it with clients immediately.”
+Buttons:
+- “Enroll Now” (to /courses)
+- “Contact” (to /contact)
+
+FOOTER
+Links: Courses, About, FAQ, Contact, Privacy, Terms + social icons placeholders.
+
+GLOBAL CONVERSION FEATURES
+- Sticky header with CTA button always visible.
+- Sticky mobile bottom bar: “Enroll Now”.
+- Email capture modal: “Get the Free Mini Guide” with name + email.
+- Exit intent modal (desktop only): “Before you go… want the free guide?”
+
+========================
+PAGE 2: COURSES (/courses)
+========================
+
+COURSES PAGE HERO
+Headline:
+“Choose Your Next Skill Upgrade”
+Subheadline:
+“Simple, step-by-step holistic esthetics training with protocols you can use right away.”
+Add filter chips (UI only): “All”, “Facials”, “Energy Work”, “Sound”, “Business/Client Experience”
+
+COURSE LISTING GRID
+Show 9 CourseCard placeholders (I will replace):
+Each card includes:
+- Course name
+- Best for
+- Outcomes bullets
+- Time estimate badge (placeholder)
+- Price placeholder
+- CTA “Enroll” (links to the existing external course checkout page placeholder: use # for now with clear comment where to paste real links)
+
+COURSE DETAILS MODAL (lightweight)
+Clicking a course opens a modal with:
+- What you’ll learn (bullets)
+- What’s included
+- Who it’s for
+- FAQ mini
+- Enroll button
+
+========================
+PAGE 3: CONTACT (/contact)
+========================
+Simple contact form + email + social links + short friendly message.
+
+DELIVERABLE
+Return a complete working project with clean code and comments showing exactly where to replace:
+- course names/prices/links
+- founder bio
+- testimonials
+- brand colors (if needed)
+- images
+
+Make the site look complete even with placeholders.
+Do NOT leave lorem ipsum.

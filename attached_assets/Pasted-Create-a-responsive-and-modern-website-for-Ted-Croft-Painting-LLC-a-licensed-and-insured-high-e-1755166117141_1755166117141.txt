@@ -1,0 +1,52 @@
+Create a responsive and modern website for **Ted Croft Painting LLC**, a licensed and insured high-end painting company with over 25 years of experience in interior and exterior painting. The design should use a clean, elegant black-and-white theme to match the attached logo, and feature professional fonts, smooth transitions, and clear calls to action.
+
+**Include the following website sections:**
+
+1. **Hero Section**  
+   - Background: Full-screen high-res image of a freshly painted luxury home interior/exterior  
+   - Overlay Text:  
+     - Header: “Ted Croft Painting LLC”  
+     - Subheader: “Trusted. Experienced. High-End Painting Services”  
+     - CTA Button: “Get a Free Estimate”
+
+2. **About Us**  
+   - Title: “25+ Years of Painting Excellence”  
+   - Paragraph Text:  
+     - Highlight the company's legacy, craftsmanship, and commitment to detail.  
+     - Mention fully **licensed and insured** status for peace of mind.  
+     - Emphasize trust, quality, and professionalism.
+
+3. **Our Services**  
+   - Title: “What We Do”  
+   - Bullet list or icons for:
+     - Interior Painting (walls, ceilings, trim, cabinets)
+     - Exterior Painting (homes, garages, fences, decks)
+     - Residential & Commercial Projects
+     - Color Consultation
+     - Surface Preparation & Repairs
+
+4. **Portfolio**  
+   - Title: “Our Work Speaks for Itself”  
+   - Gallery-style section with before-and-after images  
+   - Optional: Slideshow or carousel  
+   - Alt text: Describe surfaces, colors, project types
+
+5. **Testimonials**  
+   - Title: “What Our Clients Say”  
+   - Display 3-5 short reviews with names and star ratings  
+   - Optional: Rotating slider
+
+6. **Contact Us**  
+   - Title: “Get in Touch”  
+   - Contact form (name, phone, email, message)  
+   - Direct phone number and email listed  
+   - Service area: Based in [City/State if you'd like to add it]  
+   - CTA: “Let’s Talk About Your Next Project”
+
+7. **Footer**  
+   - Quick links to: Home | Services | Portfolio | Contact  
+   - Social icons (if available)  
+   - Copyright notice  
+   - “Licensed & Insured | Est. 1998”
+
+**Include Mobile Responsiveness, SEO Tags, and Easy Navigation Menu (sticky header).**
